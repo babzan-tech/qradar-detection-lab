@@ -1,0 +1,22 @@
+# 👋 Hello, I'm Babzan – Cybersecurity Professional
+
+I'm a cybersecurity enthusiast with over 7+ years of experience, transitioning from system and network administration into security operations and threat hunting.
+
+🔐 **Currently working with**:
+- QRadar, Azure Sentinel (SIEM)
+- pfSense, ELK Stack, Wazuh
+- Threat Hunting & Incident Response
+
+🛠️ **Past Experience**:
+- MCSA, CCNA, Linux Admin
+- Firewall configuration, Server Configuration
+- Server/Desktop Support, Networking
+- Chip-level PC troubleshooting
+
+## 🛠️ Skills
+`SOC Operations` `Threat Hunting` `Incident Response` `QRadar` `Sentinel` `Linux` `ELK` `Firewall` `CCNA` `Chip-Level Repair` `Wazuh` `Computer Hardware`
+
+## 📫 Contact
+- 📧 babzansyed@gmail.com
+- 🔗 https://www.linkedin.com/in/syed-babzan/linkedin.com/in/yourprofile
+
